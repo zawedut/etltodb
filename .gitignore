@@ -16,5 +16,4 @@ __pycache__/
 Thumbs.db
 
 # Data files (optional: remove if you want to track them)
-*.txt
 *.csv
